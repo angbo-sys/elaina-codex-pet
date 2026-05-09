@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27545183/README.md)
 # Elaina Codex Pet
 
 基于《魔女之旅》伊蕾娜形象制作的 Codex 自定义宠物资源。
