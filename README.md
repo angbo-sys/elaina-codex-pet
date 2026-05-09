@@ -1,5 +1,7 @@
 # Elaina Codex Pet
 
+![Elaina宠物展示](elaina-pet-run/qa/contact-sheet.png)
+
 基于《魔女之旅》伊蕾娜形象制作的 Codex 自定义宠物资源。
 
 ## 包含内容
