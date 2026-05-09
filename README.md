@@ -14,7 +14,7 @@
 
 ## 宠物展示
 
-<img src="elaina-pet-run/qa/contact-sheet.png" width="300">
+<img src="elaina-pet-run/qa/contact-sheet.png" width="500" style="height:auto;">
 
 ## 使用办法
 
