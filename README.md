@@ -14,7 +14,7 @@
 
 ## 宠物展示
 
-![Elaina宠物展示](elaina-pet-run/qa/contact-sheet.png)
+<img src="elaina-pet-run/qa/contact-sheet.png" width="300">
 
 ## 使用办法
 
