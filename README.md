@@ -1,6 +1,6 @@
 # Elaina Codex Pet
 
-![Elaina宠物展示](elaina-pet-run/qa/contact-sheet.png)
+
 
 基于《魔女之旅》伊蕾娜形象制作的 Codex 自定义宠物资源。
 
@@ -11,6 +11,10 @@
 - `elaina-pet-run/qa/contact-sheet.png`：动作总览图（便于人工检查）
 - `elaina-pet-run/final/validation.json`：精灵图尺寸与布局校验结果
 - `elaina-pet-run/qa/review.json`：逐行动画质量检查结果
+
+## 宠物展示
+
+![Elaina宠物展示](elaina-pet-run/qa/contact-sheet.png)
 
 ## 使用办法
 
